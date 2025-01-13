@@ -1,0 +1,27 @@
+footer{
+    background-color: black;
+    color: aliceblue;
+}
+#text{
+    color: blue;
+    text-align: right;
+    margin-left: 300px;
+
+}
+#main{
+    color: olivedrab;
+    font-weight: bolder;
+  font-size: xx-large;
+  text-align:center;
+  margin-left: -100px;
+}
+#translation{
+    color: cadetblue;
+    margin-left: -100px;
+}
+#heaven{
+    color: aqua;
+}
+picture{
+    size-adjust: 10px,10px;
+}
